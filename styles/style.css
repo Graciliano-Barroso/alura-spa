@@ -87,4 +87,17 @@ nav ul li a:hover {
   font-weight: 300;
   color: #495371;
   line-height: 1.25rem;
+}
+
+#cupom {
+  background-color: #f1e0ac;
+  padding: 4rem;
+  text-align: center;
+}
+#cupom .texto {
+  color: #495371;
+}
+#cupom .texto h2 {
+  margin: 2rem;
+  font-size: 1.7647058824rem;
 }/*# sourceMappingURL=style.css.map */
